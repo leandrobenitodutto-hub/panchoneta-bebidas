@@ -7,7 +7,10 @@
     "sprite 500": 3,
     "fanta 500": 2,
     "coca zero 500": 1,
-    "agua 500": 3
+    "agua 500": 3,
+    "aquarius manzana": 3,
+    "aquarius naranja": 3,
+    "aquarius pera": 6
   },
   "terminal": {
     "coca lata 354": 12,
